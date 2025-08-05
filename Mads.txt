@@ -1,2 +1,3 @@
 Name: Mads
 Color: Blue
+Favorite food: Pizza
