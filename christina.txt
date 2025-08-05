@@ -1,0 +1,3 @@
+Name: Christina
+Color: Yellow
+Food: cheesy pasta
