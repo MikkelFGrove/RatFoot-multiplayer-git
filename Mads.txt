@@ -1,3 +1,4 @@
 Name: Mads
 Color: Blue
 Favorite food: Pizza
+Dog: Wilson, 4-5 years
