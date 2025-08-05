@@ -1,1 +1,2 @@
-Mads
+Name: Mads
+Color: Blue
